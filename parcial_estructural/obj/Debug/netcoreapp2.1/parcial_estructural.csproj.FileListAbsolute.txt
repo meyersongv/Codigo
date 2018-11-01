@@ -1,0 +1,11 @@
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\bin\Debug\netcoreapp2.1\parcial_estructural.deps.json
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\bin\Debug\netcoreapp2.1\parcial_estructural.runtimeconfig.json
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\bin\Debug\netcoreapp2.1\parcial_estructural.runtimeconfig.dev.json
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\bin\Debug\netcoreapp2.1\parcial_estructural.dll
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\bin\Debug\netcoreapp2.1\parcial_estructural.pdb
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.csprojAssemblyReference.cache
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.csproj.CoreCompileInputs.cache
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.AssemblyInfoInputs.cache
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.AssemblyInfo.cs
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.dll
+D:\BACKUP\Unitropico\Semestre ll\Programacion estructurada\parciales\parcial_estructural\obj\Debug\netcoreapp2.1\parcial_estructural.pdb
